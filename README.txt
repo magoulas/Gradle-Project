@@ -1,5 +1,3 @@
-Job Application project Stratos Sikelis
-
 instructions:
 execute: gradle clean fat (compilation)
 	 java -jar dist/swapi.jar ......
